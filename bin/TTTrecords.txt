@@ -1,0 +1,62 @@
+1. Selection by X Selected X on --- Row: 0 Column: 0
+2. Selection by O Selected O on --- Row: 1 Column: 0
+3. Selection by X Selected X on --- Row: 2 Column: 0
+4. Selection by O Selected O on --- Row: 2 Column: 1
+5. Selection by X Selected X on --- Row: 1 Column: 1
+6. Selection by O Selected O on --- Row: 0 Column: 1
+7. Selection by X Selected X on --- Row: 0 Column: 2
+8. X Wins!
+1. Selection by X Selected X on --- Row: 0 Column: 0
+2. Selection by O Selected O on --- Row: 1 Column: 0
+3. Selection by X Selected X on --- Row: 2 Column: 0
+4. Selection by O Selected O on --- Row: 2 Column: 1
+5. Selection by X Selected X on --- Row: 1 Column: 1
+6. Selection by O Selected O on --- Row: 0 Column: 1
+7. Selection by X Selected X on --- Row: 0 Column: 2
+8. X Wins!
+1. Selection by X Selected X on --- Row: 0 Column: 0
+2. Selection by O Selected O on --- Row: 1 Column: 0
+3. Selection by X Selected X on --- Row: 2 Column: 1
+4. Selection by O Selected O on --- Row: 0 Column: 1
+5. Selection by X Selected X on --- Row: 1 Column: 1
+6. Selection by O Selected O on --- Row: 1 Column: 2
+7. Selection by X Selected X on --- Row: 2 Column: 2
+8. X Wins!
+9. Selection by X Selected X on --- Row: 2 Column: 0
+10. Selection by O Selected O on --- Row: 1 Column: 0
+11. Selection by X Selected X on --- Row: 0 Column: 0
+12. Selection by O Selected O on --- Row: 0 Column: 1
+13. Selection by X Selected X on --- Row: 1 Column: 1
+14. Selection by O Selected O on --- Row: 2 Column: 1
+15. Selection by X Selected X on --- Row: 2 Column: 2
+16. X Wins!
+1. Selection by Tim Selected X on --- Row: 0 Column: 0
+2. Selection by Sky Selected O on --- Row: 1 Column: 1
+3. Selection by Tim Selected X on --- Row: 2 Column: 2
+4. Selection by Sky Selected O on --- Row: 2 Column: 0
+5. Selection by Tim Selected X on --- Row: 0 Column: 2
+6. Selection by Sky Selected O on --- Row: 0 Column: 1
+7. Selection by Tim Selected X on --- Row: 1 Column: 2
+8. Tim Wins!
+9. Selection by Tim Selected X on --- Row: 0 Column: 0
+10. Selection by Sky Selected O on --- Row: 1 Column: 1
+11. Selection by Tim Selected X on --- Row: 2 Column: 2
+12. Selection by Sky Selected O on --- Row: 2 Column: 0
+13. Selection by Tim Selected X on --- Row: 0 Column: 2
+14. Selection by Sky Selected O on --- Row: 0 Column: 1
+15. Selection by Tim Selected X on --- Row: 1 Column: 2
+16. Tim Wins!
+1. Selection by X Selected X on --- Row: 0 Column: 0
+2. Selection by O Selected O on --- Row: 1 Column: 1
+3. Selection by X Selected X on --- Row: 2 Column: 2
+4. Selection by O Selected O on --- Row: 0 Column: 2
+5. Selection by X Selected X on --- Row: 2 Column: 0
+6. Selection by O Selected O on --- Row: 1 Column: 0
+7. Selection by X Selected X on --- Row: 2 Column: 1
+8. X Wins!
+9. Selection by Tim Selected X on --- Row: 0 Column: 0
+10. Selection by Elena Selected O on --- Row: 1 Column: 0
+11. Selection by Tim Selected X on --- Row: 1 Column: 1
+12. Selection by Elena Selected O on --- Row: 2 Column: 1
+13. Selection by Tim Selected X on --- Row: 2 Column: 2
+14. Tim Wins!
